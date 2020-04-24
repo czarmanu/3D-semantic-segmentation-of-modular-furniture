@@ -1,6 +1,15 @@
+# 3D Semantic Segmentation of Modular Furniture using rjMCMC
+
+This repository contains the C++ implementation of our paper:
+*Badami I., *Tom M., Mathias M., Leibe B. (*equal contribution): [3D Semantic Segmentation of Modular Furniture using rjMCMC](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Papers/Tom_WACV17.pdf), IEEE Winter Conference on Applications of Computer Vision, Santa Rosa, USA, 2017
+
+![Furniture Segmentation]()
+
 The code is tested on Ubuntu 14.04.
 
 Download RGB-D furniture models and their annotations from [here](https://www.vision.rwth-aachen.de/page/furniture).
+Supplementary material can be downmloaded from [here](https://www.vision.rwth-aachen.de/media/papers/supplementary_main.pdf)
+
 
 #### Dependencies: 
 eigen, PCL, Gurobi, OpenCV
