@@ -3,7 +3,7 @@
 This repository contains the C++ implementation of our paper:
 *Badami I., *Tom M., Mathias M., Leibe B. (*equal contribution): [3D Semantic Segmentation of Modular Furniture using rjMCMC](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Papers/Tom_WACV17.pdf), IEEE Winter Conference on Applications of Computer Vision, Santa Rosa, USA, 2017
 
-![Furniture Segmentation]()
+![Furniture Segmentation](images/title_figure.png)
 
 The code is tested on Ubuntu 14.04.
 
